@@ -1,5 +1,7 @@
 # Google APIs Node.js Client
 
+[![Join the chat at https://gitter.im/naskogithub/google-api-nodejs-client](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/naskogithub/google-api-nodejs-client?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status][travisimg]][travis]
 [![Code Coverage][coverallsimg]][coveralls]
 
